@@ -1,6 +1,6 @@
 # Skincare Business Insights Dashboard
 
-This repository contains a Streamlit-based web application that provides insights into the skincare industry, based on survey data. It includes dashboards for consumer behavior, target market analysis, and technology adoption.
+This project provides an interactive dashboard built with Streamlit to analyze consumer behavior, preferences, and target market insights for a skincare business based on survey data and data from OpenDOSM.
 
 ## Features
 
