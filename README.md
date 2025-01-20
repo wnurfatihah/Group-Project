@@ -12,7 +12,7 @@ This project provides an interactive dashboard built with Streamlit to analyze c
   - Analyzes income and expenditure differences by state.
   - Provides demographic insights such as age, gender, race, and occupation distributions.
 
-- **Technology Adoption**: 
+- **Technology**: 
   - Explores awareness of AI and interest in a skin-scanning app for personalized skincare routines.
 
 ## Deployed Application
@@ -54,17 +54,6 @@ Group-Project/
 ├── requirements.txt            # Required Python libraries
 └── README.md                   # Project documentation
 ```
-
-## Example Dashboards
-
-### Consumer Behavior & Preferences
-Visualize key consumer preferences such as ingredients choice and monthly spending patterns.
-
-### Target Market Analysis
-Analyze demographics, income, and expenditure insights.
-
-### Technology Adoption
-Explore awareness of AI and interest in personalized skincare technology.
 
 ## Requirements
 
