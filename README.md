@@ -68,4 +68,4 @@ The application uses the following Python libraries:
 All dependencies are listed in the `requirements.txt` file.
 
 ---
-Developed by the LANARA Skincare Business Insights Team :star2:
+Developed by the LARANA Skincare Business Insights Team :star2:
